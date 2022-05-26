@@ -1,0 +1,2 @@
+#define L32_API __declspec(dllexport)
+#define L32_API __declspec(dllimport)
